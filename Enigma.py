@@ -1,6 +1,7 @@
 # Decifra Enigma.
 dec = 0
 e = []
+bin = 0
 
 while True :
 	bin = input("Digite o binário ou \"c\" para corrigir ou \"f\" finalizar: ")
