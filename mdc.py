@@ -7,4 +7,3 @@ a = int(input("Digite numero 1: "))
 b = int(input("Digite numero 2: "))
 
 print("MDC : %d" % mdc(a,b))
-print("Teste %d" % mdc(20,50))
